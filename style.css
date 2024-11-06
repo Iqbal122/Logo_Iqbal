@@ -9,7 +9,7 @@ body {
  
   height: 100vh;
   margin: 0;
- 
+ background-color: #f0f0f0;
   display: flex;
   flex-direction: column;
 }
@@ -19,7 +19,7 @@ header.navbar-container {
   max-width: 1200px;
   padding-block: 1rem;
   margin-inline: auto;
- 
+ background-color: #f0f0f0;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -33,7 +33,7 @@ header.navbar-container .logo img {
  
 header.navbar-container .nav-list ul {
   padding-left: 0;
- 
+ background-color: #f0f0f0;
   display: flex;
   justify-content: center;
   gap: 2rem 1rem;
