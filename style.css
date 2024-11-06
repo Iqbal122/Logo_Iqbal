@@ -46,7 +46,7 @@ header.navbar-container .nav-list li {
 header.navbar-container .nav-list li a {
   padding: 0.5rem 1.5rem;
   border-radius: 999px;
- 
+ background-color: #f0f0f0;
   text-decoration: none;
   font-size: 1.05rem;
   font-weight: 500;
@@ -81,6 +81,7 @@ main .content {
  
 main .content .content-description {
   flex: 1 1;
+  background-color: #f0f0f0;
 }
  
 main .content .content-description .title {
@@ -140,6 +141,7 @@ main aside {
 main aside .social-media {
   height: 100%;
   display: flex;
+  background-color: #f0f0f0;
 }
  
 main aside .social-media ul {
@@ -158,6 +160,7 @@ main aside .social-media ul {
  
 main aside .social-media li {
   list-style-type: none;
+  background-color: #f0f0f0;
 }
  
 main aside .social-media li a {
