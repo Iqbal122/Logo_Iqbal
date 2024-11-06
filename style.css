@@ -117,7 +117,7 @@ main .content .content-description button:hover {
   border: 3px solid #ffffff;
   background-color: transtparant;
  
-  color: #ffffff;
+  color: black;
 }
  
 main .content .content-image {
